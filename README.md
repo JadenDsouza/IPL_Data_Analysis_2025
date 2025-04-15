@@ -252,9 +252,7 @@ This framework can be extended in several ways:
 5. Create an interactive dashboard using tools like Dash or Streamlit
 
 ## License
-
-MIT
-
+License(s): DbCL-1.0
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

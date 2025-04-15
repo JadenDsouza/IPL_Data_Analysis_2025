@@ -1,5 +1,5 @@
-# IPL_Data_Analysis_2025
-# Cricket Data Analysis
+# IPL_Deliveries_Data_Analysis_2025
+
 
 ## Project Overview
 This project provides a comprehensive framework for analyzing cricket match data. It breaks down the process of cricket data analysis into distinct steps, focusing on different aspects of the game such as match progression, batting and bowling statistics, partnerships, and team performance.
@@ -119,8 +119,6 @@ This framework can be extended in several ways:
 - Visualizations can be saved to files by adding `plt.savefig('filename.png')` before `plt.show()`
 
 # IPL_Matches_Data_Analysis
-
-# IPL Cricket Data Analysis
 
 ## Overview
 

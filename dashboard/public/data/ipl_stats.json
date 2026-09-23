@@ -1,0 +1,679 @@
+{
+  "overview": {
+    "totalMatches": 756,
+    "totalDeliveries": 179078,
+    "seasons": 12,
+    "teams": 12,
+    "venues": 41
+  },
+  "seasonSummary": [
+    {
+      "season": 2008,
+      "matches": 58
+    },
+    {
+      "season": 2009,
+      "matches": 57
+    },
+    {
+      "season": 2010,
+      "matches": 60
+    },
+    {
+      "season": 2011,
+      "matches": 73
+    },
+    {
+      "season": 2012,
+      "matches": 74
+    },
+    {
+      "season": 2013,
+      "matches": 76
+    },
+    {
+      "season": 2014,
+      "matches": 60
+    },
+    {
+      "season": 2015,
+      "matches": 59
+    },
+    {
+      "season": 2016,
+      "matches": 60
+    },
+    {
+      "season": 2017,
+      "matches": 59
+    },
+    {
+      "season": 2018,
+      "matches": 60
+    },
+    {
+      "season": 2019,
+      "matches": 60
+    }
+  ],
+  "teamPerformance": [
+    {
+      "team": "Mumbai Indians",
+      "played": 187,
+      "wins": 109,
+      "winPct": 58.3
+    },
+    {
+      "team": "Chennai Super Kings",
+      "played": 164,
+      "wins": 100,
+      "winPct": 61.0
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "played": 178,
+      "wins": 92,
+      "winPct": 51.7
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "played": 183,
+      "wins": 87,
+      "winPct": 47.5
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "played": 180,
+      "wins": 84,
+      "winPct": 46.7
+    },
+    {
+      "team": "Kings XI Punjab",
+      "played": 176,
+      "wins": 82,
+      "winPct": 46.6
+    },
+    {
+      "team": "Delhi Capitals",
+      "played": 177,
+      "wins": 77,
+      "winPct": 43.5
+    },
+    {
+      "team": "Rajasthan Royals",
+      "played": 147,
+      "wins": 75,
+      "winPct": 51.0
+    },
+    {
+      "team": "Rising Pune Supergiants",
+      "played": 30,
+      "wins": 15,
+      "winPct": 50.0
+    },
+    {
+      "team": "Gujarat Lions",
+      "played": 30,
+      "wins": 13,
+      "winPct": 43.3
+    },
+    {
+      "team": "Pune Warriors",
+      "played": 46,
+      "wins": 12,
+      "winPct": 26.1
+    },
+    {
+      "team": "Kochi Tuskers Kerala",
+      "played": 14,
+      "wins": 6,
+      "winPct": 42.9
+    }
+  ],
+  "toss": {
+    "tossWinnerMatchWinPct": 52.3,
+    "batFirstWinPct": 45.9,
+    "fieldFirstWinPct": 56.3,
+    "bySeason": [
+      {
+        "season": 2008,
+        "batFirstPct": 44.8
+      },
+      {
+        "season": 2009,
+        "batFirstPct": 61.4
+      },
+      {
+        "season": 2010,
+        "batFirstPct": 65.0
+      },
+      {
+        "season": 2011,
+        "batFirstPct": 33.3
+      },
+      {
+        "season": 2012,
+        "batFirstPct": 50.0
+      },
+      {
+        "season": 2013,
+        "batFirstPct": 59.2
+      },
+      {
+        "season": 2014,
+        "batFirstPct": 31.7
+      },
+      {
+        "season": 2015,
+        "batFirstPct": 43.9
+      },
+      {
+        "season": 2016,
+        "batFirstPct": 18.3
+      },
+      {
+        "season": 2017,
+        "batFirstPct": 18.6
+      },
+      {
+        "season": 2018,
+        "batFirstPct": 16.7
+      },
+      {
+        "season": 2019,
+        "batFirstPct": 16.9
+      }
+    ]
+  },
+  "venues": [
+    {
+      "venue": "Eden Gardens",
+      "matches": 77,
+      "battingFirstWinPct": 39.0
+    },
+    {
+      "venue": "M Chinnaswamy Stadium",
+      "matches": 73,
+      "battingFirstWinPct": 43.8
+    },
+    {
+      "venue": "Wankhede Stadium",
+      "matches": 73,
+      "battingFirstWinPct": 49.3
+    },
+    {
+      "venue": "Feroz Shah Kotla",
+      "matches": 67,
+      "battingFirstWinPct": 47.8
+    },
+    {
+      "venue": "Rajiv Gandhi International Stadium, Uppal",
+      "matches": 56,
+      "battingFirstWinPct": 39.3
+    },
+    {
+      "venue": "MA Chidambaram Stadium, Chepauk",
+      "matches": 49,
+      "battingFirstWinPct": 63.3
+    },
+    {
+      "venue": "Sawai Mansingh Stadium",
+      "matches": 47,
+      "battingFirstWinPct": 31.9
+    },
+    {
+      "venue": "Punjab Cricket Association Stadium, Mohali",
+      "matches": 35,
+      "battingFirstWinPct": 42.9
+    },
+    {
+      "venue": "Maharashtra Cricket Association Stadium",
+      "matches": 21,
+      "battingFirstWinPct": 33.3
+    },
+    {
+      "venue": "Dr DY Patil Sports Academy",
+      "matches": 17,
+      "battingFirstWinPct": 41.2
+    },
+    {
+      "venue": "Subrata Roy Sahara Stadium",
+      "matches": 17,
+      "battingFirstWinPct": 64.7
+    },
+    {
+      "venue": "Kingsmead",
+      "matches": 15,
+      "battingFirstWinPct": 53.3
+    },
+    {
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "matches": 14,
+      "battingFirstWinPct": 50.0
+    },
+    {
+      "venue": "SuperSport Park",
+      "matches": 12,
+      "battingFirstWinPct": 33.3
+    },
+    {
+      "venue": "Sardar Patel Stadium, Motera",
+      "matches": 12,
+      "battingFirstWinPct": 50.0
+    }
+  ],
+  "playerOfMatch": [
+    {
+      "player": "CH Gayle",
+      "awards": 21
+    },
+    {
+      "player": "AB de Villiers",
+      "awards": 20
+    },
+    {
+      "player": "MS Dhoni",
+      "awards": 17
+    },
+    {
+      "player": "DA Warner",
+      "awards": 17
+    },
+    {
+      "player": "RG Sharma",
+      "awards": 17
+    },
+    {
+      "player": "YK Pathan",
+      "awards": 16
+    },
+    {
+      "player": "SR Watson",
+      "awards": 15
+    },
+    {
+      "player": "SK Raina",
+      "awards": 14
+    },
+    {
+      "player": "G Gambhir",
+      "awards": 13
+    },
+    {
+      "player": "MEK Hussey",
+      "awards": 12
+    }
+  ],
+  "topBatsmen": [
+    {
+      "player": "V Kohli",
+      "runs": 5434,
+      "balls": 4211,
+      "matches": 169,
+      "fours": 482,
+      "sixes": 191,
+      "strikeRate": 129.0,
+      "average": 35.8
+    },
+    {
+      "player": "SK Raina",
+      "runs": 5415,
+      "balls": 4044,
+      "matches": 189,
+      "fours": 495,
+      "sixes": 195,
+      "strikeRate": 133.9,
+      "average": 33.6
+    },
+    {
+      "player": "RG Sharma",
+      "runs": 4914,
+      "balls": 3816,
+      "matches": 182,
+      "fours": 431,
+      "sixes": 194,
+      "strikeRate": 128.8,
+      "average": 30.3
+    },
+    {
+      "player": "DA Warner",
+      "runs": 4741,
+      "balls": 3398,
+      "matches": 126,
+      "fours": 459,
+      "sixes": 181,
+      "strikeRate": 139.5,
+      "average": 41.6
+    },
+    {
+      "player": "S Dhawan",
+      "runs": 4632,
+      "balls": 3776,
+      "matches": 158,
+      "fours": 526,
+      "sixes": 96,
+      "strikeRate": 122.7,
+      "average": 33.8
+    },
+    {
+      "player": "CH Gayle",
+      "runs": 4560,
+      "balls": 3131,
+      "matches": 124,
+      "fours": 376,
+      "sixes": 327,
+      "strikeRate": 145.6,
+      "average": 41.5
+    },
+    {
+      "player": "MS Dhoni",
+      "runs": 4477,
+      "balls": 3318,
+      "matches": 170,
+      "fours": 297,
+      "sixes": 207,
+      "strikeRate": 134.9,
+      "average": 37.9
+    },
+    {
+      "player": "RV Uthappa",
+      "runs": 4446,
+      "balls": 3492,
+      "matches": 170,
+      "fours": 436,
+      "sixes": 156,
+      "strikeRate": 127.3,
+      "average": 28.3
+    },
+    {
+      "player": "AB de Villiers",
+      "runs": 4428,
+      "balls": 2977,
+      "matches": 142,
+      "fours": 357,
+      "sixes": 214,
+      "strikeRate": 148.7,
+      "average": 42.6
+    },
+    {
+      "player": "G Gambhir",
+      "runs": 4223,
+      "balls": 3524,
+      "matches": 151,
+      "fours": 492,
+      "sixes": 59,
+      "strikeRate": 119.8,
+      "average": 31.3
+    },
+    {
+      "player": "AM Rahane",
+      "runs": 3850,
+      "balls": 3215,
+      "matches": 132,
+      "fours": 405,
+      "sixes": 74,
+      "strikeRate": 119.8,
+      "average": 32.9
+    },
+    {
+      "player": "KD Karthik",
+      "runs": 3688,
+      "balls": 2890,
+      "matches": 162,
+      "fours": 358,
+      "sixes": 101,
+      "strikeRate": 127.6,
+      "average": 26.3
+    },
+    {
+      "player": "SR Watson",
+      "runs": 3614,
+      "balls": 2639,
+      "matches": 130,
+      "fours": 344,
+      "sixes": 177,
+      "strikeRate": 136.9,
+      "average": 31.4
+    },
+    {
+      "player": "AT Rayudu",
+      "runs": 3326,
+      "balls": 2681,
+      "matches": 138,
+      "fours": 278,
+      "sixes": 120,
+      "strikeRate": 124.1,
+      "average": 29.2
+    },
+    {
+      "player": "YK Pathan",
+      "runs": 3241,
+      "balls": 2334,
+      "matches": 153,
+      "fours": 264,
+      "sixes": 161,
+      "strikeRate": 138.9,
+      "average": 29.2
+    }
+  ],
+  "topBowlers": [
+    {
+      "player": "SL Malinga",
+      "wickets": 188,
+      "matches": 122,
+      "overs": 495.7,
+      "runsConceded": 3511,
+      "economy": 7.08
+    },
+    {
+      "player": "DJ Bravo",
+      "wickets": 168,
+      "matches": 131,
+      "overs": 451.8,
+      "runsConceded": 3733,
+      "economy": 8.26
+    },
+    {
+      "player": "A Mishra",
+      "wickets": 165,
+      "matches": 147,
+      "overs": 528.7,
+      "runsConceded": 3850,
+      "economy": 7.28
+    },
+    {
+      "player": "Harbhajan Singh",
+      "wickets": 161,
+      "matches": 157,
+      "overs": 575.2,
+      "runsConceded": 4050,
+      "economy": 7.04
+    },
+    {
+      "player": "PP Chawla",
+      "wickets": 156,
+      "matches": 156,
+      "overs": 526.2,
+      "runsConceded": 4153,
+      "economy": 7.89
+    },
+    {
+      "player": "B Kumar",
+      "wickets": 141,
+      "matches": 117,
+      "overs": 451.2,
+      "runsConceded": 3264,
+      "economy": 7.23
+    },
+    {
+      "player": "R Ashwin",
+      "wickets": 138,
+      "matches": 136,
+      "overs": 502.7,
+      "runsConceded": 3391,
+      "economy": 6.75
+    },
+    {
+      "player": "SP Narine",
+      "wickets": 137,
+      "matches": 109,
+      "overs": 433.3,
+      "runsConceded": 2939,
+      "economy": 6.78
+    },
+    {
+      "player": "UT Yadav",
+      "wickets": 136,
+      "matches": 118,
+      "overs": 434.2,
+      "runsConceded": 3640,
+      "economy": 8.38
+    },
+    {
+      "player": "R Vinay Kumar",
+      "wickets": 127,
+      "matches": 104,
+      "overs": 364.3,
+      "runsConceded": 3043,
+      "economy": 8.35
+    },
+    {
+      "player": "A Nehra",
+      "wickets": 121,
+      "matches": 88,
+      "overs": 329.0,
+      "runsConceded": 2537,
+      "economy": 7.71
+    },
+    {
+      "player": "Z Khan",
+      "wickets": 119,
+      "matches": 99,
+      "overs": 379.3,
+      "runsConceded": 2860,
+      "economy": 7.54
+    },
+    {
+      "player": "RA Jadeja",
+      "wickets": 116,
+      "matches": 142,
+      "overs": 423.5,
+      "runsConceded": 3221,
+      "economy": 7.61
+    },
+    {
+      "player": "SR Watson",
+      "wickets": 107,
+      "matches": 105,
+      "overs": 356.2,
+      "runsConceded": 2751,
+      "economy": 7.72
+    },
+    {
+      "player": "DW Steyn",
+      "wickets": 104,
+      "matches": 92,
+      "overs": 367.8,
+      "runsConceded": 2454,
+      "economy": 6.67
+    }
+  ],
+  "phaseAnalysis": [
+    {
+      "phase": "Powerplay",
+      "runRate": 7.41,
+      "wickets": 2177,
+      "dotPct": 45.9,
+      "boundaries": 10368
+    },
+    {
+      "phase": "Middle",
+      "runRate": 7.45,
+      "wickets": 3359,
+      "dotPct": 31.9,
+      "boundaries": 10602
+    },
+    {
+      "phase": "Death",
+      "runRate": 9.43,
+      "wickets": 3298,
+      "dotPct": 26.9,
+      "boundaries": 7592
+    }
+  ],
+  "runDistribution": [
+    {
+      "runs": 0,
+      "count": 63002
+    },
+    {
+      "runs": 1,
+      "count": 73059
+    },
+    {
+      "runs": 2,
+      "count": 13125
+    },
+    {
+      "runs": 3,
+      "count": 688
+    },
+    {
+      "runs": 4,
+      "count": 20599
+    },
+    {
+      "runs": 5,
+      "count": 339
+    },
+    {
+      "runs": 6,
+      "count": 8148
+    },
+    {
+      "runs": 7,
+      "count": 38
+    }
+  ],
+  "matchCharacteristics": {
+    "avgRunMargin": 29.8,
+    "avgWicketMargin": 6.2,
+    "closestRunWins": [
+      {
+        "season": 2019,
+        "teams": "Mumbai Indians vs Chennai Super Kings",
+        "winner": "Mumbai Indians",
+        "margin": 1
+      },
+      {
+        "season": 2019,
+        "teams": "Royal Challengers Bangalore vs Chennai Super Kings",
+        "winner": "Royal Challengers Bangalore",
+        "margin": 1
+      },
+      {
+        "season": 2008,
+        "teams": "Kings XI Punjab vs Mumbai Indians",
+        "winner": "Kings XI Punjab",
+        "margin": 1
+      },
+      {
+        "season": 2009,
+        "teams": "Kings XI Punjab vs Sunrisers Hyderabad",
+        "winner": "Kings XI Punjab",
+        "margin": 1
+      },
+      {
+        "season": 2016,
+        "teams": "Gujarat Lions vs Delhi Capitals",
+        "winner": "Gujarat Lions",
+        "margin": 1
+      }
+    ],
+    "resultTypeCounts": {
+      "runs": 337,
+      "wickets": 406,
+      "noResult": 4
+    }
+  }
+}
